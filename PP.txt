@@ -1,0 +1,84 @@
+
+                   Privacy Policy (FR Template)
+
+                    Quant-Lab – Privacy Policy  
+           Version: 1.0 — Last updated: September 6, 2025  
+
+  1) Who is responsible?  
+
+The data controller is QuantLab (the “Controller”),
+contact: quant.lab.infrastructure@gmail.com
+
+  2) What data do we process?  
+
+As part of accessing the Pitch Deck under NDA, we process:  
+- Identity: first name, last name, company, optional LinkedIn URL.  
+- Contact details: email address (preferably professional).  
+- Usage / security  timestamp, IP address, user-agent, chosen 
+identification method, double opt-in status, NDA version and 
+corresponding SHA-256 hash.  
+- Exchanges: email confirmations, LinkedIn messages, access logs
+to the provided links.  
+- reCAPTCHA: Google may collect technical data to distinguish
+humans from bots (see § 7).  
+
+  3) Purposes and legal bases  
+
+- Secure access to the Pitch Deck under NDA: NDA consent management,
+identity verification, traceability (Legal basis: performance of
+pre-contractual measures/contract, Art. 6-1-b GDPR).  
+- Security / anti-abuse: reCAPTCHA, usage limits, technical logging
+(Legal basis: legitimate interest, Art. 6-1-f).  
+- Information sharing (if you consent): news, updates (Legal basis:
+consent, Art. 6-1-a).  
+
+  4) Recipients  
+
+- Processors:  
+    - MailerLite (form handling and double opt-in).  
+    - Google reCAPTCHA (anti-bot).  
+    - (Optional) Google Sheets/Apps Script or private Git repository
+for the audit log.  
+    - Hosting: infrastructure and storage providers (depending on 
+our technical choices).  
+These providers act only on instructions, under a GDPR-compliant
+contract.  
+
+  5) Transfers outside the EU  
+
+Some providers (e.g., Google, MailerLite) may involve transfers
+outside the EU. We rely on appropriate transfer mechanisms
+(standard contractual clauses, etc.).  
+
+  6) Retention periods  
+
+- NDA audit log (acceptances, evidence): 3 years after the end of
+discussions or access removal.  
+- Marketing data (if consent is given): until consent is withdrawn.  
+- Technical anti-abuse  up to 12 months.  
+
+  7) Cookies and reCAPTCHA  
+
+We use Google reCAPTCHA to prevent automated submissions. Its use
+is subject to Google’s Privacy Policy and Terms.  
+We minimize cookies/trackers and do not set any marketing cookies
+without your consent.  
+
+  8) Your rights  
+
+You have the rights of access, rectification, erasure, restriction,
+objection, and portability. You may withdraw your consent at any time.  
+Contact: quant.lab.infrastructure@gmail.com  
+You may also lodge a complaint with your competent data protection
+authority.  
+
+  9) Security  
+
+We apply appropriate technical and organizational measures 
+(append-only logging, access control, encryption in transit,
+public NDA hash by version, time-limited links).  
+
+  10) Changes  
+
+Any substantial change will be announced on this page, with version
+number and date.

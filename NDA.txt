@@ -1,0 +1,39 @@
+                    Non disclosure Agreement
+   Between the Recipient (identified through form validation and 
+professional email verification) And David Storti, the Discloser
+
+  PURPOSE: Protection of confidential information related to the 
+project QuantLab Infrastructure.
+
+  1. CONFIDENTIAL INFORMATION
+ Any non-public information shared by the Discloser, regardless of 
+format. Oral disclosures must be confirmed in writing within 30 days.
+
+  2. OBLIGATIONS 
+The Recipient agrees to: a) Use the information solely to evaluate the project. b) (Legal entities) Restrict access to representatives bound by 
+confidentiality obligations. c) (Individuals) Not disclose information to third parties without 
+prior written consent.
+
+  3. DURATION & RETURN 
+Duration: 2 years. Upon expiration or request, the Recipient must 
+return or destroy all information.
+
+  4. EXCLUSIONS 
+Does not apply to information: already in the Recipient’s possession,
+publicly available, legitimately obtained from a third party, or
+independently developed.
+
+  5. INTELLECTUAL PROPERTY 
+The Discloser retains full ownership of all confidential information.
+No implicit licenses are granted.
+
+  ELECTRONIC ACCEPTANCE Form validation and double opt-in confirmation of the Recipient’s
+professional email constitute irrefutable acceptance of these terms.
+Transaction metadata (timestamps, hashes) serve as proof of integrity
+and consent.
+
+  EXECUTED ELECTRONICALLY on the date of the Recipient’s validation.
+
+
+          QuantLab Infrastructure – Non disclosure Agreement   
+            Version: 1.0 - Last updated: September 6, 2025  
